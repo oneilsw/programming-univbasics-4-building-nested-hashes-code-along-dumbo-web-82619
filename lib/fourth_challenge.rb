@@ -16,7 +16,11 @@ def fourth_challenge
           attitude: "hot-headed"
         }
       ]
+<<<<<<< HEAD
       
+=======
+      hero[:status]= dead
+>>>>>>> a635032bef26bac4c2e1b164ff69250be6130af1
    }, 
    :capulet => {
       :patriarch => {name: "Lord Capulet", age: "50"},
